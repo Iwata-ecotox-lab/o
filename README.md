@@ -12,10 +12,10 @@ Sheet4を作成したあと、1. PLIFデータ整理用のコードをマクロ�
 # 2. PLIFデータ%まとめ
 1.で生成したSheet4のデータを新しいエクセルのSheet1-3にすべて貼り付ける。<br>
 また新しいエクセルファイルでSheet4-8を作成する。<br>
-Sheet8に先ほど編集したPLIFのアミノ酸残基をそれぞれA,C,E列に張り付ける（この時は一行開けてなくても大丈夫です）。<br>
-その後H列にすべてのPLIFのアミノ酸残基を順番に表記する。<br>
+Sheet8に先ほど編集したPLIFのアミノ酸残基をそれぞれA,C,E列の2行目に張り付ける。<br>
+その後H列の1行目に"mseq"を、2行目からすべてのPLIFのアミノ酸残基を順番に表記する。<br>
 例<br>
-![image](https://github.com/yanakaru2020/Ecotox_Lab_iwata/assets/135199782/dc8ab965-6e9f-495e-8e58-1434e5cf763b)<br>
+![image](https://github.com/yanakaru2020/Ecotox_Lab_iwata/assets/135199782/a677c137-6aca-446a-a887-4fe77fe483d8)
 
 この際にSheet4,5,6には先ほど作成したH列を1行目にペーストする
 貼り付け後、このファイル内のマクロを読み込ませて「すべてを実行するマクロ()」を実行する。<br>
