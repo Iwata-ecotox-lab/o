@@ -14,7 +14,7 @@ Sheet4を作成したあと、1. PLIFデータ整理用のコードをマクロ�
 また新しいエクセルファイルでSheet4-8を作成する。<br>
 Sheet8に先ほど編集したPLIFのアミノ酸残基をそれぞれA,C,E列に張り付ける（この時は一行開けてなくても大丈夫です）。<br>
 その後H列にすべてのPLIFのアミノ酸残基を順番に表記する。<br>
-例
+例<br>
 ![image](https://github.com/yanakaru2020/Ecotox_Lab_iwata/assets/135199782/dc8ab965-6e9f-495e-8e58-1434e5cf763b)<br>
 
 この際にSheet4,5,6には先ほど作成したH列を1行目にペーストする
