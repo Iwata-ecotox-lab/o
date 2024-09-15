@@ -24,7 +24,7 @@ Sheet8に先ほど編集したPLIFのアミノ酸残基をそれぞれA,C,E列�
 
 その後、相互作用の個数をカウントする行列を作成する。<br>
 例<br>
-![image](https://github.com/user-attachments/assets/bbed8522-a5ac-46fc-a2ef-41c10c300bab)
+
 
 次にパーセントの行列を作成する<br>
 例<br>
